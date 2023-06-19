@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933679257330",
+    "project_id": "rent-car-2a37d",
+    "storage_bucket": "rent-car-2a37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933679257330:android:1a9540cd3f63dc4913e26b",
+        "android_client_info": {
+          "package_name": "fir.mobile.projectakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933679257330-kgmsqbatsn5j375nufsja6v8lqdkr7nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXlPwEpevzjpHLG2TEH_Q_37T3ibeItM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933679257330-kgmsqbatsn5j375nufsja6v8lqdkr7nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
